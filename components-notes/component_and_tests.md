@@ -20,6 +20,12 @@ ii)if there is a user in local storage, then the user is asked if this is them a
 
 2. log in page
 
+tests
+
+i) If the user logs in correctly they will receive an error message
+
+ii) if the user logs in correctly, they are taken to the homepage
+
 3. nav bar component
 
 This contains
@@ -32,3 +38,19 @@ create a post
 explore button- this connects to the instagram api and displays random feeds
 likes button( shows things I have posted that people like)
 profile- for this section, I will just have a profile and log out for this section
+
+4. Homepage
+
+friends bar with scroll
+posts- there will alot of functionality
+friend suggestions
+
+5. Post page
+
+6. Email page
+
+Here you can choose a friend from the left and messa
+
+7. Explore page connected to an API
+
+8.
