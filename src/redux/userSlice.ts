@@ -13,6 +13,7 @@ export const userSlice = createSlice({
   },
   reducers: {
     consoleLog: (state, { payload }: PayloadAction<name>) => {
+      console.log(state.post);
       console.log(payload.name);
     },
   },
