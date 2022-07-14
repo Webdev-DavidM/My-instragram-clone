@@ -6,7 +6,8 @@ explore route - /explore connects to the instagram api
 likes - this is a drop down from the nav bar from the nav bar, no new route
 profile- this shows all my posts and videos and data - /footballblubber (username)
 
-nothing for create a post so this is just a modal from navbar, use a portal
+nothing for create a post so this is just a modal from navbar, u
+se a portal
 
 1. splash screen
 
